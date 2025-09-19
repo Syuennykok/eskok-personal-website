@@ -1,8 +1,22 @@
 ---
-title: Play Hard, Learn Hard
+title: Welcome!
 created: 2025-09-17T11:49
-updated: 2025-09-17T14:49
+updated: 2025-09-19T10:12
 ---
+I would share notes and ideas in my brain, as well as life shatter.
 
-PH-LH stand for "Play Hard, Learn Hard".
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Focus areas
+
+- Hardware Design
+- FEC Encode and Decode
+
+# Projects
+
+- coming soon......
+
+# Blogs
+
+- coming soon
+
+# About me
+- coming soon
