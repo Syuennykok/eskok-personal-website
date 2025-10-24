@@ -1,6 +1,7 @@
 ---
 created: 2025-10-24T17:26
-updated: 2025-10-24T17:33
+updated: 2025-10-24T17:52
+title: Projects & Ideas
 ---
 A place for my personal projects and ideas.
 

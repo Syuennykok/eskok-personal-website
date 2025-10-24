@@ -1,7 +1,7 @@
 ---
 created: 2025-10-24T17:15
-updated: 2025-10-24T17:21
-title: Index
+updated: 2025-10-24T17:51
+title: Knowledge Vault
 draft: false
 tags:
   - 

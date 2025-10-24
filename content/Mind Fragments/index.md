@@ -1,10 +1,10 @@
 ---
-title: Main Page
+title: Mind Fragments
 draft: false
 tags:
   - 
 created: 2025-09-17T11:49
-updated: 2025-10-24T17:25
+updated: 2025-10-24T17:51
 ---
 A place for raw, emotional, and sometimes messy thoughts. 
 
