@@ -1,11 +1,11 @@
 ---
 title: Welcome!
 created: 2025-09-17T11:49
-updated: 2025-10-24T17:03
+updated: 2025-10-24T17:26
 ---
 # KOK EE SYUEN
 
-# About Me
+## About Me
 
 I was born in Malaysia. At my age of 23, I received my **Bachelor Degree** in Integrated Circuit Engineering and System from **Xiamen University, China**. Currently, I am pursuing a **Master Degree** in Xiamen University, and is expected to graduate in June 2026. I am also planning for a PhD in future.
 
