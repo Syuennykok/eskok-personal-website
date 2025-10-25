@@ -4,7 +4,7 @@ draft: false
 tags:
   - emo
 created: 2025-10-24T17:06
-updated: 2025-10-25T23:05
+updated: 2025-10-25T23:15
 ---
 # What happened?
 
@@ -14,7 +14,7 @@ Realizing this fact cause me great frustration, since I am ambitious to become a
 
 # Am I lacking sufficient research?
 
-Looking back, I never felt that I wasted any time during master's studies. After the fundamental course training, I started my time exploring the world of researcher. My supervisor told me that algorithm-hardware co-design is a better choice than pure-hardware, since I am planning to pursue a PhD degree in the future. He sent me to another research group, given me a chance to learn **radar algorithm**, something that I never expect before. I appreciate for that precious chance, and starting to work on radar algorithm from the basics. 
+Looking back, I never felt that I wasted any time during master's studies. After the fundamental course training, I started my time exploring the world of researcher. My supervisor told me that algorithm-hardware co-design is a better choice than pure-hardware, since I am planning to pursue a PhD degree in the future. He sent me to another research group, given me a chance to learn radar algorithm, something that I never expect before. I appreciate for that precious chance, and starting to work on radar algorithm from the basics. 
 
 However, hardware processors tend to capture most of my attention rather than the study of radar algorithms. Developing a low-power or high-performance radar processor seems like a promising direction for me, and I am almost fully committed to it. Nevertheless, my co-supervisor expects me to focus more on the “algorithm” side, which I find difficult to concentrate on. Thus, I stepped away from radar algorithms and decided to pursue what truly interests me, even though the path may feel lonely and challenging at times.
 
@@ -28,7 +28,7 @@ Being empowered in something besides research, yet realizing the gap in my abili
 
 One of my friends, Rick referred to it as the tension between what I am suited for and what I aspire to. This realization led me to a deep reflection on my future career. I questioned myself: "Why not walk away and put my effort into what I am suited for?" I believed moving into another field might bring me similar rewards, or even more.
 
-However, I could not feel much happiness if I made such a decision. No matter how well I performed in those administrative tasks, or how strong the recommendations from my seniors were, I always felt **drained** after completing them. These tasks seemed to burn away my energy, and every time I finished a project or assignment, I needed a long time to recover in isolation. Even worse, I might be draining my partner's energy too.
+However, I could not feel much happiness if I made such a decision. No matter how well I performed in those administrative tasks, or how strong the recommendations from my seniors were, I always felt drained after completing them. These tasks seemed to burn away my energy, and every time I finished a project or assignment, I needed a long time to recover in isolation. Even worse, I might be draining my partner's energy too.
 
 Walking away would demand courage, but continuing in research also feels uncertain and risky. However, Rick told me that he might choose the path of "walking away," as he struggles with it too. I am on the road he did not choose, and I know I should persist.
 
