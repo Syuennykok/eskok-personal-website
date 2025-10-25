@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 created: 2025-09-17T11:49
-updated: 2025-10-24T17:26
+updated: 2025-10-25T11:35
 ---
 # KOK EE SYUEN
 
@@ -40,7 +40,7 @@ Here are some skills and areas of knowledge that I experienced with.
 	- Video Editing
 - Productivity & Writing Tools
 	- Zotero - a reference management tool, helping me to organize and annotate my reading library.
-	- Obsidian - lexible notes and knowledge managementf
+	- Obsidian - flexible notes and knowledge managementf
 	- Latex -for academic writing
 	- Beamer - for slide presentation
 
@@ -49,7 +49,7 @@ My supervisor, Prof. Jianyang Zhou, often emphasizes that open-source knowledge 
 
 - Computer Architecture
 	- Computer Organization & Design (University of Pennysylvania) - A hands-on lab that lead you step-by-step to design a modern superscalar CPU that can be found on [Github](https://github.com/cis571/lc4-labs)
-	- Computer Architecture: A Quantitive Approach
+	- [Computer Architecture: A Quantitative Approach](https://books.google.com.sg/books/about/Computer_Architecture.html?id=cM8mDwAAQBAJ&redir_esc=y)
 - ASIP Design
 - RISC-V
 - FEC Algorithm

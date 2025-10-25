@@ -72,7 +72,10 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-      // Plugin.HardLineBreaks(),
+      Plugin.HardLineBreaks(),
+      // Plugin.Citations({
+      //   bibliographyFile: "./MyLibrary.bib",
+      // }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -90,7 +93,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      // Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }
