@@ -1,9 +1,12 @@
 ---
 title: Welcome!
 created: 2025-09-17T11:49
-updated: 2025-10-25T11:35
+updated: 2025-10-26T12:21
 ---
 # KOK EE SYUEN
+
+>[!example] Motto in Life
+>Be Brave. Keep Going.
 
 ## About Me
 
