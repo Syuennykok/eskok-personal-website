@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 created: 2025-09-17T11:49
-updated: 2025-10-26T12:21
+updated: 2025-10-27T15:16
 ---
 # KOK EE SYUEN
 
@@ -43,7 +43,7 @@ Here are some skills and areas of knowledge that I experienced with.
 	- Video Editing
 - Productivity & Writing Tools
 	- Zotero - a reference management tool, helping me to organize and annotate my reading library.
-	- Obsidian - flexible notes and knowledge managementf
+	- Obsidian - flexible notes and knowledge management
 	- Latex -for academic writing
 	- Beamer - for slide presentation
 
